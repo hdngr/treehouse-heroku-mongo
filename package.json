@@ -1,0 +1,14 @@
+{
+  "name": "adding-mongo-to-your-node-app-on-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huston <huston@teamtreehouse.com>",
+  "license": "ISC"
+}
